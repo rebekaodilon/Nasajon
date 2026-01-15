@@ -1,0 +1,5 @@
+[15-Jan-2026 23:13:36 UTC] [IBGE] API indisponível: Simulação: API fora do ar
+[15-Jan-2026 23:28:05 UTC] PHP Warning:  Undefined variable $resultados in C:\Users\rebek\Documents\projetos\Nasajon\index.php on line 73
+[15-Jan-2026 23:28:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\rebek\Documents\projetos\Nasajon\index.php on line 73
+[15-Jan-2026 23:29:00 UTC] Erro inesperado: Cannot use object of type App\Resultado\ResultadoMunicipio as array
+[15-Jan-2026 23:41:35 UTC] Erro inesperado: Call to undefined method App\Resultado\ResultadoMunicipio::getStatus()
